@@ -10,7 +10,8 @@ export default function App() {
         width="150px"
       />
       <h2>Maria Silva</h2>
-      <p>Desenvolvedora Front-end apaixonada por React e CSS.</p>
+      <p>Desenvolvedora Front-end.</p>
+      <p>Apaixonada por React e CSS.</p>
       <button className="btn">Seguir</button>
     </div>
   );
